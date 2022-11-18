@@ -1,1 +1,11 @@
-# BlogYazisii
+# MATEMATİK BLOG YAZISI
+##Matematik dersi bazı insanlar tarafından ”en sevilen” ders iken bazıları için ise hiç sevilmeyen bir derstir.
+
+Matematiği ya çok seversin ya hiç sevmezsin ortası yoktur. Aynı şeyi resim, müzik, beden dersi için söyleyemeyiz.
+Peki matematik dersi neden sevilmez?
+Çünkü birçok insan için matematik anlaşılması güç korkulu bir rüyadır. Matematik öğretiminde öğrenci başarısı genel olarak düşük olmak da olduğu için öğrenciler matematiğe karşı olumsuz bir tutum sergiliyor. Matematik üzerindeki olumsuz etkenleri kaldırmak için matematiğin zor bir ders olduğu düşüncesinin değiştirilmesi ve farklı yöntemlerle işlenmesi etkili bir durum olabilir. Matematik insan tarafından yaratılmış zihinsel bir sistemdir.
+
+---------------------------------------------------------------------------------
+##Matematiği nasıl severiz?
+
+Öncelikle matematiğe olan bakış açımızı ve ön yargılarımızı ortadan kaldırmamız gerekir. Hemen hemen herkesin matematik için söylediği söz, gündelik hayat da ne işimize yarayacak ki vurgusudur. Bu düşünce tamamen yanlıştır. Çünkü matematik hayatın içindendir. Alışverişte bir şey satın alacağımız zaman, yemek yaparken kullanacağımız malzemenin ölçüsünü ayarlarken, ya da bir bina inşa ederken, yani sık sık kullandığımız bir şeydir. Öyleyse matematik sadece sayılardan ibaret bir ders değildir. Elbette sayıların önemi tartışılmaz fakat matematik aynı zamanda, ilişkileri görmeyi, sebep-sonuç ilişkisini kurabilmeyi, okuma ve yazmayı, tabloları, resimleri, grafikleri yorumlayıp kullanabilmeyi içerir. Bulmaca çözmek, gazete okumak gibi gündelik faaliyetlerimiz aynı zamanda bizim için birer matematik alıştırmasıdır. Matematiği sevmemek, matematik kaygısı çekmekle doğru orantılıdır. Anladığın bir şeyi sever ilgi duyarsın, anlamadığın bir şeye ise ilgisizleşir ondan giderek uzaklaşır, uzaklaştıkça da korkmaya başlarsın. Bu korkuyu yenmek için üzerine gitmek ve tüm olumsuz cümleleri yok etmek gerekir. Ben bu problemi asla çözemem, matematiği öğrenemem gibi bizleri içten içe kemiren tüm düşüncelerden uzak durmak gerekir. Olumsuz iç konuşmaların insana hiçbir faydası yoktur. İnanmak başarmanın yarısıdır. Eğer kendimize olan güvenimizi artırırsak, hayatımızda bizi korkutan şeylerle karşı karşıya kalmaz, belkide hiç ummadığımız imkansızlıkların altına büyük imzalar atarız.
